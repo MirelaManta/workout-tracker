@@ -21,5 +21,5 @@ BEARER_TOKEN=[your Sheety bearer token]
 
 ### Usage
 
-To use the script, simply run "python workout_tracker.py" in your terminal. You'll be prompted to enter the exercises you did (e.g. "ran 3 miles" or "lifted weights for 30 minutes"). The script will then use the Nutritionix API to get information about those exercises, and log that information to a Google Sheet using the Sheety API.
+To use the script, simply run "python main.py" in your terminal. You'll be prompted to enter the exercises you did (e.g. "ran 3 miles" or "lifted weights for 30 minutes"). The script will then use the Nutritionix API to get information about those exercises, and log that information to a Google Sheet using the Sheety API.
 
