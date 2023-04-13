@@ -1,2 +1,3 @@
-# workout-tracker
-Excercise Tracking with Python and Google Sheets
+# Workout Tracker
+Exercise Tracking with Python and Google Sheets.
+
